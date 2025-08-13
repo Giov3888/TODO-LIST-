@@ -38,8 +38,8 @@ This project is designed not only for practical task management but also as a **
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Giov3888/TODO-LIST-.git
-cd TODO-LIST-
+git clone https://github.com/Giov3888/task-manager.git
+cd task-manager
 ```
 ### 2️⃣ Install dependencies
 ```bash
